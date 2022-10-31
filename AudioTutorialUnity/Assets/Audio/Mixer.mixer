@@ -133,7 +133,7 @@ AudioMixerGroupController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Zombie
+  m_Name: Send
   m_AudioMixer: {fileID: 24100000}
   m_GroupID: 0007247ead9f5404bbb49ba7e0bbcade
   m_Children: []
@@ -191,7 +191,7 @@ AudioMixerGroupController:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Zombie Return
+  m_Name: Recieve
   m_AudioMixer: {fileID: 24100000}
   m_GroupID: 4aa75f37161365e49a48c5cd670cfc33
   m_Children: []
